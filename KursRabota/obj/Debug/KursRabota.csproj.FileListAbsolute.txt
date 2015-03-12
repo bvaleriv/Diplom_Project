@@ -1,0 +1,25 @@
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\bin\Debug\KursRabota.exe.config
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.exe
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.pdb
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\bin\Debug\KursRabota.exe
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\bin\Debug\KursRabota.pdb
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.csprojResolveAssemblyReference.cache
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.Form1.resources
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.Help.resources
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.Properties.Resources.resources
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.Redactor.resources
+F:\Учеба\5-й курс\Новая папка\KursRabota\KursRabota\obj\Debug\KursRabota.csproj.GenerateResource.Cache
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\bin\Debug\KursRabota.exe.config
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.exe
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.pdb
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\bin\Debug\KursRabota.exe
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\bin\Debug\KursRabota.pdb
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.csprojResolveAssemblyReference.cache
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.Form1.resources
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.Help.resources
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.Properties.Resources.resources
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.Redactor.resources
+F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\obj\Debug\KursRabota.csproj.GenerateResource.Cache
+F:\Учеба\Дипломный проект\KursRabota\KursRabota\bin\Debug\KursRabota.exe.config
+F:\Учеба\Дипломный проект\KursRabota\KursRabota\obj\Debug\KursRabota.exe
+F:\Учеба\Дипломный проект\KursRabota\KursRabota\obj\Debug\KursRabota.pdb
