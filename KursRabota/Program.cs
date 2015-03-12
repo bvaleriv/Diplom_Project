@@ -14,6 +14,7 @@ namespace KursRabota
         [STAThread]
         static void Main()
         {
+            //kjhjkhkjh
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

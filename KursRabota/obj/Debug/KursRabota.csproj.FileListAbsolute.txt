@@ -23,3 +23,6 @@ F:\Учеба\5-й курс\Курсовой проет\KursRabota\KursRabota\ob
 F:\Учеба\Дипломный проект\KursRabota\KursRabota\bin\Debug\KursRabota.exe.config
 F:\Учеба\Дипломный проект\KursRabota\KursRabota\obj\Debug\KursRabota.exe
 F:\Учеба\Дипломный проект\KursRabota\KursRabota\obj\Debug\KursRabota.pdb
+F:\Учеба\Дипломный проект\KursRabota\Project\KursRabota\bin\Debug\KursRabota.exe.config
+F:\Учеба\Дипломный проект\KursRabota\Project\KursRabota\obj\Debug\KursRabota.exe
+F:\Учеба\Дипломный проект\KursRabota\Project\KursRabota\obj\Debug\KursRabota.pdb
